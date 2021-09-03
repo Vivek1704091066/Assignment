@@ -1,0 +1,49 @@
+.pc{
+	font-size:20px;
+	color:white;
+	background-color:green;
+	border-radius:4px;
+	text-decoration:none;
+	padding:5px 15px 5px 15px;
+	
+}
+.pc:hover{
+	color:black;
+	background-color:yellow;
+}
+.bk{ border-radius:5px;
+        font-size:15px;
+        width:200px;
+        height:25px;
+        margin-left:20px;
+ }
+ .bt{
+	background-color:blue;
+	color:white;
+	width:80px;
+    height:25px;
+    border-radius:5px;
+}
+.he{
+	font-size:40px;
+	
+}
+.na{
+	font-size:20px;
+	margin-right:20px;
+	color:white;
+	margin-top:50px;
+	
+}
+.ta{
+	background:white;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	border-radius:5px;
+	padding:15px 15px 15px 15px;
+}
+.fo {
+	font-size:20px;
+	padding:5px;
+}

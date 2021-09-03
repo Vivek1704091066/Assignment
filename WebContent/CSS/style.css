@@ -1,0 +1,50 @@
+.ta{
+	background:pink;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:5px;
+	border-radius:5px;
+	padding:15px 15px 15px 15px;
+}
+.tap{
+	background:pink;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	border-radius:5px;
+	padding:15px 15px 15px 15px;
+}
+
+.he{
+	font-size:40px;
+}
+.fo {
+	font-size:20px;
+}
+.bk{ border-radius:5px;
+        font-size:15px;
+        width:200px;
+        height:25px;
+        margin-left:20px;
+ }
+.bt{
+	background-color:blue;
+	color:white;
+	width:80px;
+    height:25px;
+    border-radius:5px;
+}
+.li{
+	text-decoration:none;
+}
+.lis{
+	text-decoration:none;
+	background-color:green;
+	color:white;
+	border-radius:5px;
+	padding:10px 10px 10px 10px ;
+}
+.lis:hover{
+	color:black;
+	background-color:yellow;
+}
