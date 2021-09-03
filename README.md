@@ -8,6 +8,6 @@
 
 - Open WebContent/readme.jsp
 - Enter your password on line 3 inside quotes with the format like
-- String password = "<Your Mysql Password>" e.g.-
+- String password = "\<Your Mysql Password>" e.g.-
 - String password = "@MYSQL";
 - Run using Apache Tomcat
